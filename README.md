@@ -38,7 +38,7 @@ It is a simple Java web application which demonstrates how creating a new transa
 
 **Sample usage:**
 ```sh
-git clone clone-url
+git clone git@github.com:resilient-data-systems/transactions-how-to-kill-your-app.git
 cd transactions-how-to-kill-your-app
 mvn clean install jetty:run
 #in another terminal window...
