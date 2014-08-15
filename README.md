@@ -13,7 +13,7 @@ It is a simple Java web application which demonstrates how creating a new transa
 - Configured to run on port 9090
 
 **Running the application:**
-- either import the app into your favourite IDE (i.e. Eclipse). Once you do that, start the application by running Jetty.java from src/test/java under package .uk.co.resilientdatasystems.htkya.web.jetty
+- either import the app into your favourite IDE (i.e. Eclipse). Once you do that, start the application by running Jetty.java from src/test/java under package .uk.co.resilientdatasystems.thtkya.web.jetty
 - or run mvn jetty:run from command line which will start the app on port 9090
 
 
